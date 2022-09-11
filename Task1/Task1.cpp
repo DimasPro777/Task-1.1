@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     system("chcp 1251");
-    int a, b, c;
+    float a, b, c;
     cout << "Введите переменные a и b: ";
     cin >> a >> b;
     if (b == 0)
